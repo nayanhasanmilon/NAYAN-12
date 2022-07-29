@@ -1,4 +1,4 @@
-# NAYAN-12
+# NAYAN-1
 
 pkg update
 
