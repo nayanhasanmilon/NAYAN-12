@@ -405,7 +405,7 @@ logo = """
 \x1b[1;97m[+] 𝗔𝗨𝗧𝗛𝗢𝗥  :   NAYAN
 \x1b[1;97m[+] 𝗙𝗔𝗖𝗘𝗕𝗢𝗢𝗞 :  নয়ন- NAYANツ
 \x1b[1;97m[+] 𝗚𝗜𝗧𝗛𝗨𝗕  :    mdnayanhasanmilon
-\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42 No team required \33[0m
+\x1b[1;97m[+] 𝗧𝗘𝗔𝗠    :   \33[1;42  No team required \33[0m
 \x1b[1;97m[+] 𝗩𝗘𝗥𝗦𝗜𝗢𝗡 :\x1b[1;97m HANDSOME_NAYAN  \x1b[1;97m          
 \x1b[1;97m--------------------------------------
 """
@@ -435,7 +435,7 @@ class Main:
 			print("    Thanks♥️")
 			exit() 
 		elif Baloch in ["1", "01"]:
-			os.system("xdg-open https://www.facebook.com/naya.2.pja  ")
+			os.system("xdg-open https://www.facebook.com/nayan.2.pja")
 			print("")
 			time.sleep(3.0)
 			print("\033[1;37m    𝗖𝗛𝗘𝗖𝗞𝗜𝗡𝗚 𝗔𝗣𝗣𝗥𝗢𝗩𝗔𝗟 ")
