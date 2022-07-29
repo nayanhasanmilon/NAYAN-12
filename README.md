@@ -27,4 +27,4 @@ cd NAYAN-12
 
 ls
 
-Python nayan.py
+python nayan.py
