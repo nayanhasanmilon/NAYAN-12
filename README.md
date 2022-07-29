@@ -23,7 +23,7 @@ git clone https://github.com/nayanhasanmilon/NAYAN-12
 
 ls
 
-cd nayan-12
+cd NAYAN-12
 
 ls
 
